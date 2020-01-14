@@ -1,0 +1,13 @@
+{
+  "input":{
+    "text":"Linux Academy was recently acquired by A Cloud Guru, creating the largest and most effective cloud computing training platform in the world. A Cloud Guru has offices in Australia, England and the US. G'day mate!"
+  },
+  "voice":{
+    "languageCode":"en-au",
+    "name":"en-AU-Wavenet-B",
+    "ssmlGender":"MALE"
+  },
+  "audioConfig":{
+    "audioEncoding":"MP3"
+  }
+}
